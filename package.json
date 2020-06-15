@@ -1,0 +1,19 @@
+{
+  "name": "excel-file-parser-api",
+  "version": "1.0.0",
+  "description": "An api for reading and writing into excel files",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shina1/LoneRangersExcelAPI.git"
+  },
+  "author": "Lone Rangers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shina1/LoneRangersExcelAPI/issues"
+  },
+  "homepage": "https://github.com/shina1/LoneRangersExcelAPI#readme"
+}
